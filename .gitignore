@@ -1,0 +1,25 @@
+## js releated
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+
+## java releated
+.classpath
+.project
+.settings
+target
+*~
+.metadata
+
+## fichier .lock openoffice
+.~*
+
+## stanbol 
+
+server/launcher/dependency-reduced-pom.xml
+
+## eclipse js
+
+.tern-project
